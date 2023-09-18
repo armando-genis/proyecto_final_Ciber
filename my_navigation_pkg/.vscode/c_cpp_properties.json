@@ -1,0 +1,40 @@
+{
+  "configurations": [
+    {
+      "browse": {
+        "databaseFilename": "${default}",
+        "limitSymbolsToIncludedHeaders": false
+      },
+      "includePath": [
+        "/home/genis/catkin_ws/devel/include/**",
+        "/opt/ros/noetic/include/**",
+        "/home/genis/catkin_ws/src/navigation/amcl/include/**",
+        "/home/genis/catkin_ws/src/navigation/base_local_planner/include/**",
+        "/home/genis/catkin_ws/src/navigation/carrot_planner/include/**",
+        "/home/genis/catkin_ws/src/navigation/clear_costmap_recovery/include/**",
+        "/home/genis/catkin_ws/src/navigation/costmap_2d/include/**",
+        "/home/genis/catkin_ws/src/navigation/dwa_local_planner/include/**",
+        "/home/genis/catkin_ws/src/navigation/global_planner/include/**",
+        "/home/genis/catkin_ws/src/hector_slam/hector_geotiff/include/**",
+        "/home/genis/catkin_ws/src/hector_slam/hector_map_tools/include/**",
+        "/home/genis/catkin_ws/src/hector_slam/hector_mapping/include/**",
+        "/home/genis/catkin_ws/src/hector_slam/hector_marker_drawing/include/**",
+        "/home/genis/catkin_ws/src/navigation/map_server/include/**",
+        "/home/genis/catkin_ws/src/navigation/move_base/include/**",
+        "/home/genis/catkin_ws/src/navigation/move_slow_and_clear/include/**",
+        "/home/genis/catkin_ws/src/my_navigation_pkg/include/**",
+        "/home/genis/catkin_ws/src/navigation/nav_core/include/**",
+        "/home/genis/catkin_ws/src/navigation/navfn/include/**",
+        "/home/genis/catkin_ws/src/navigation/rotate_recovery/include/**",
+        "/home/genis/catkin_ws/src/navigation/voxel_grid/include/**",
+        "/usr/include/**"
+      ],
+      "name": "ROS",
+      "intelliSenseMode": "gcc-x64",
+      "compilerPath": "/usr/bin/gcc",
+      "cStandard": "gnu11",
+      "cppStandard": "c++14"
+    }
+  ],
+  "version": 4
+}
